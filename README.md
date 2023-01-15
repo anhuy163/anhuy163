@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **anhuy163/anhuy163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">👋 ABOUT ME 👋</h1>
+4th-year student acquiring the Degree of Bachelor in Information Technology at UET - VNU
+Software Developer
+Have been working for NTQ Solution JSC as a Front-End Developer, main stack is ReactJS, NextJS, Typescript, Redux.
+</br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -33,7 +36,7 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ant-282C34?logo=antdesign&logoColor=7952B3" alt="Bootstrap logo" title="Ant Design" height="25" /></span>
+<span><img src="https://img.shields.io/badge/ant-282C34?logo=antdesign&logoColor=0170FE" alt="Bootstrap logo" title="Ant Design" height="25" /></span>
 &nbsp;
 
 <br>
