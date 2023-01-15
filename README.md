@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ant-282C34?logo=ant&logoColor=7952B3" alt="Bootstrap logo" title="Ant Design" height="25" /></span>
+<span><img src="https://img.shields.io/badge/ant-282C34?logo=antdesign&logoColor=7952B3" alt="Bootstrap logo" title="Ant Design" height="25" /></span>
 &nbsp;
 
 <br>
