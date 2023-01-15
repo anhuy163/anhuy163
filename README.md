@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">👋 ABOUT ME 👋</h1>
-4th-year student acquiring the Degree of Bachelor in Information Technology at UET - VNU
-Software Developer
-Have been working for NTQ Solution JSC as a Front-End Developer, main stack is ReactJS, NextJS, Typescript, Redux.
+<p>4th-year student acquiring the Degree of Bachelor in Information Technology at UET - VNU.</p>
+<p>Software Developer.</p>
+<p>Have been working for NTQ Solution JSC as a Front-End Developer, main stack is ReactJS, NextJS, Typescript, Redux.</p>
 </br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -25,6 +25,8 @@ Have been working for NTQ Solution JSC as a Front-End Developer, main stack is R
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=next&logoColor=000000" alt="ReactJS logo" title="NextJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
